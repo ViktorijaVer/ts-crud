@@ -2,4 +2,5 @@
   public
   webpack.config*
   webpack.config.prod.js
+  tsconfig.json
   
