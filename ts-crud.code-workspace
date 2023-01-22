@@ -1,11 +1,15 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"name": "src",
+			"path": "../../TypeScript-lesson-12/užduotis/src"
 		},
 		{
-			"path": "../../TypeScript-lesson-12/užduotis/src"
+			"name": "ts-crud",
+			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "src"
+	}
 }
